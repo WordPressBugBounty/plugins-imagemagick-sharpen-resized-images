@@ -1,0 +1,1 @@
+# plugins-imagemagick-sharpen-resized-images
